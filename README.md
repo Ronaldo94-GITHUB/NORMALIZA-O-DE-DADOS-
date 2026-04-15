@@ -1,2 +1,2 @@
-# NORMALIZA-O-DE-DADOS-
+# NORMALIZACAO-DE-DADOS-
 Trabalho Acadêmico - Engenharia Software - FORMAS NORMAIS II 
